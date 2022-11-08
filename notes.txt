@@ -1,0 +1,16 @@
+step1: npm create vite
+select a framework -> react
+select a variant -> react-ts
+select a project folder
+step2: npm i
+step3: npm run dev
+
+keypoints:
+we need to track the user input key pressed which 
+letter the person has guessed
+
+i need to track what is the current word is?
+
+i need to track weather user won or lose.
+
+to get a random words
